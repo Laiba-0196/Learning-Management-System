@@ -1,0 +1,2 @@
+Umar	2022-SE-01	Matric	123456	lahore
+Hadi	2022-SE-02	Inter	123456	Karachi

@@ -1,0 +1,4 @@
+waseem	MS	123456	Gujranwala	 Physics,Math,math	2000014	
+Jamshaid	MS biology	4567821	Laiyyah	Biology,Chemistry,bio lab	2000013	
+Wajeeha	BA	123456	Lahore	Math,OOP	12345	
+munawar	Ma	urdu	karachi	 math,islamiyat	123456	

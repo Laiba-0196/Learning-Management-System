@@ -1,0 +1,5 @@
+OOP	112	CS	19	2018	
+Math	123	SE	12	2019	
+Physics	1234	BSH	13	2022	
+islamiyat	1234	BBA	13	2019	
+Introduction to computing	114	CS	2018	2019	

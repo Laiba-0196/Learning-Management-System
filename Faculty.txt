@@ -1,0 +1,4 @@
+khawar	MA.eng	123578	Liberty	
+Ahmad	MA.phy	123456789	Kamoke
+hasnat	CS	12345678	KSK	
+soayba	Mbbs	78654321	Lahore	
